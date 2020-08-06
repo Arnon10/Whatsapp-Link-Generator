@@ -1,0 +1,17 @@
+.container{
+    padding-top: 10em;
+    background-image:url("photos/pic2.png");
+    background-color: aqua;
+    text-align: center;
+    text-transform: uppercase;
+    margin-left: 30em;
+    margin-right: 30em;
+    
+}
+.contant{
+    padding: 10%;
+}
+
+.button{
+
+}
